@@ -5,7 +5,7 @@ package com.example.helloworld;
  */
 public class HelloWorld {
        public static void main(String[] args) {
-              System.out.printlin("Hellow orld");
+              System.out.printlin("Hello, world!");
            int[] values = {2, 4, 1};
            System.out.println(values[2]);
 
